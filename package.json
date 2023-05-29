@@ -1,0 +1,32 @@
+{
+  "name": "learn-jest",
+  "version": "1.0.0",
+  "description": "learn jest",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Ryuu-64",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/preset-env": "^7.22.4",
+    "@babel/preset-typescript": "^7.21.5",
+    "@types/jest": "^29.5.1",
+    "babel-jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryuu-64/learn-jest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ryuu-64/learn-jest/issues"
+  },
+  "homepage": "https://github.com/Ryuu-64/learn-jest#readme"
+}
